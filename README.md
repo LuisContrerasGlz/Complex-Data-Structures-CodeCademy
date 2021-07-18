@@ -9,3 +9,5 @@ Content from the program includes:
 ## Trees
 ## Heaps
 ## Graphs
+
+These data structures use a layer of abstraction to make specific operations much more straightforward. They’re designed as solutions for problems that don’t require linear iteration, but have more nuanced requirements.
